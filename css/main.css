@@ -101,10 +101,26 @@ textarea {
     max-width: 1200px;
 }
 
+.header,
+.footer {
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
 
+.header {
+    background-color: #F0F0F0;
+    margin-bottom: 2em;
+}
 
-
-
+.footer {
+    background-color: #666;
+    color: white;
+    margin-top: 3em;
+    text-align: right;
+}
+    .footer p {
+        margin: 0;
+    }
 
 
 
